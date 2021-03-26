@@ -14,7 +14,7 @@ Soy Erick Rojo un apasionado de Linux y el mundo Cloud Computing.
 
 #### SO
 ![Linux Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=Linux&logoColor=white&label=Linux)
-![Ubuntu Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=ubuntu&logoColor=white&label=Ubuntu)
+![Debian Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=debian&logoColor=white&label=Debian)
 
 
 #### Base de Datos
