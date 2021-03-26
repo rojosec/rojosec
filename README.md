@@ -3,6 +3,7 @@
 Soy Erick Rojo un apasionado de Linux y el mundo Cloud Computing.
 
 #### Contactame
+[![Linkedin Badge](https://img.shields.io/badge/-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-rojo-717328143/)](https://www.linkedin.com/in/erick-rojo-717328143/)
 
 # Habilidades
 
