@@ -3,7 +3,11 @@
 Soy Erick Rojo un apasionado de Linux y el mundo Cloud Computing.
 
 #### Contactame
-[![Linkedin Badge](https://img.shields.io/badge/-0077b5?style=flat-square&labelColor=ffffff&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-rojo-717328143/)](https://www.linkedin.com/in/erick-rojo-717328143/)
+[![Linkedin Badge](https://img.shields.io/badge/-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-rojo-717328143/)](https://www.linkedin.com/in/erick-rojo-717328143/)
+
+[![Github Badge](https://img.shields.io/badge/-333?style=flat-square&logo=github&logoColor=white&link=https://www.linkedin.com/in/erick-rojo-717328143/)](https://www.linkedin.com/in/erick-rojo-717328143/)
+
+[![Github Badge](https://img.shields.io/badge/-333?style=flat-square&logo=envelope&logoColor=white&link=mailto:erick.araos@outlook.com)](mailto:erick.araos@outlook.com)
 
 # Habilidades
 
