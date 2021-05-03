@@ -17,7 +17,7 @@ Soy Erick Rojo un apasionado de Linux y la Seguridad Informatica.
 ![Debian Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=debian&logoColor=white&label=Debian)
 ![Kali Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=kali-linux&logoColor=white&label=Kali)
 ![apple Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=apple&logoColor=white&label=macOS)
-![windows Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=windows&logoColor=white&label=Windows)
+![windows Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=windows-10&logoColor=white&label=Windows)
 
 #### Base de Datos
 ![postgresql Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=postgresql&logoColor=white&label=Postgres)
