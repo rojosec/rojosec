@@ -22,5 +22,5 @@ Soy Erick Rojo un apasionado de Linux y la Seguridad Informatica.
 #### Base de Datos
 ![postgresql Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=postgresql&logoColor=white&label=Postgres)
 
-# Certificados
+# Certificaciones
 Google - Ciberseguridad en el Teletrabajo | https://learndigital.withgoogle.com/link/1nur091p2ww | ID del certificado => HMB LT4 N2N
